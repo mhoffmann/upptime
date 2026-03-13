@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.linguajunkie.com.ico",
     "slug": "linguajunkie",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "1.78%",
+    "uptimeDay": "1.78%",
+    "uptimeWeek": "1.78%",
+    "uptimeMonth": "1.78%",
+    "uptimeYear": "1.78%",
     "time": 125,
     "timeDay": 125,
     "timeWeek": 125,
     "timeMonth": 125,
     "timeYear": 125,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-13": 0
+    }
   }
 ]
