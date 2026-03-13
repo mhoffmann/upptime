@@ -6,7 +6,7 @@ sites:
   - name: linguajunkie
     url: http://13.218.64.30/
     headers:
-      - "Host: www.linguajunkie.com"
+      Host: www.linguajunkie.com
     expectedStatusCodes:
       - 301
   - name: jpod
