@@ -14,9 +14,9 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: 
-  navbar:
-    - title: Status
-      href: /
+  #navbar:
+  #  - title: Status
+  #    href: /upptime
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
