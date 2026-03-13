@@ -1,23 +1,21 @@
 [
   {
-    "name": "linguajunkie",
-    "url": "http://13.218.64.30:80/",
-    "icon": "https://www.linguajunkie.com/favicon.ico",
-    "slug": "linguajunkie",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 149,
-    "timeDay": 149,
-    "timeWeek": 149,
-    "timeMonth": 149,
-    "timeYear": 149,
-    "dailyMinutesDown": {
-      "2026-03-13": 84
-    }
+    "name": "linguajunkiePing",
+    "url": "13.218.64.30",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "linguajunkie-ping",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 19,
+    "timeDay": 19,
+    "timeWeek": 19,
+    "timeMonth": 19,
+    "timeYear": 19,
+    "dailyMinutesDown": {}
   },
   {
     "name": "jpod",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 263,
-    "timeDay": 263,
-    "timeWeek": 263,
-    "timeMonth": 263,
-    "timeYear": 263,
+    "time": 295,
+    "timeDay": 295,
+    "timeWeek": 295,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {}
   }
 ]
