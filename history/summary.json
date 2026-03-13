@@ -1,8 +1,8 @@
 [
   {
     "name": "linguajunkie",
-    "url": "http://13.218.64.30/",
-    "icon": "https://icons.duckduckgo.com/ip3/13.218.64.30.ico",
+    "url": "http://13.218.64.30:80/",
+    "icon": "https://www.linguajunkie.com/favicon.ico",
     "slug": "linguajunkie",
     "status": "down",
     "uptime": "0.01%",
@@ -10,13 +10,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 140,
-    "timeDay": 140,
-    "timeWeek": 140,
-    "timeMonth": 140,
-    "timeYear": 140,
+    "time": 149,
+    "timeDay": 149,
+    "timeWeek": 149,
+    "timeMonth": 149,
+    "timeYear": 149,
     "dailyMinutesDown": {
-      "2026-03-13": 60
+      "2026-03-13": 84
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 282,
-    "timeWeek": 282,
-    "timeMonth": 282,
-    "timeYear": 282,
+    "time": 263,
+    "timeDay": 263,
+    "timeWeek": 263,
+    "timeMonth": 263,
+    "timeYear": 263,
     "dailyMinutesDown": {}
   }
 ]
