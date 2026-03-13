@@ -4,7 +4,11 @@ repo: upptime # The name of this repository
 
 sites:
   - name: linguajunkie
-    url: https://www.linguajunkie.com
+    url: http://13.218.64.30/
+    headers:
+      - "Host: www.linguajunkie.com"
+    expectedStatusCodes:
+      - 301
   - name: jpod
     url: https://www.japanesepod101.com
 
